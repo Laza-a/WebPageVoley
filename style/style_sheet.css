@@ -1,0 +1,25 @@
+.princi{
+    background-color: rgb(20, 102, 253);
+}
+.Pie{
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+.todo{
+    background-color: gray;
+    color: black;
+    font-style: oblique;
+}
+.imagenes{
+    border-radius: 10%;
+    box-shadow: inset;
+    width: 15%;
+}
+.T_A{
+    text-align: center;
+}
+.Container{
+    display: flex;
+    justify-content: center;
+}
