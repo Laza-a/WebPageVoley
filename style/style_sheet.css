@@ -10,6 +10,7 @@
     background-color: gray;
     color: black;
     font-style: oblique;
+    margin: 10%
 }
 .imagenes{
     border-radius: 10%;
@@ -22,4 +23,10 @@
 .Container{
     display: flex;
     justify-content: center;
+}
+.margin{
+    margin: 10%
+}
+#identity{
+    color: blue;
 }
